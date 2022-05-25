@@ -1,10 +1,13 @@
 # stock-analysis
 # Overview of the project
 This project is a review of differnt Tickers and their annual returns for different years
-Ticker TERP gave the lowest returns in 2018 while the Ticker RUN gave the highest retunrs
-Ticker TERP gave the lowest return in 2017 while Ticker DQ was the highest
-Ticker TERP was very low in the two years
-The overall Ticker DQ perfomance was higher in 2017 when compared to 2018
+
+#Analysis
+
+Ticker TERP gave the lowest returns in 2018 while the Ticker RUN gave the highest retunrs.
+Ticker TERP gave the lowest return in 2017 while Ticker DQ was the highest.
+Ticker TERP was very low in the two years.
+The overall Ticker DQ perfomance was higher in 2017 when compared to 2018.
 
 Challenges
 The Refactor did not work, I kept getting error.
