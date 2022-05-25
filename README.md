@@ -8,6 +8,8 @@ The overall Ticker DQ perfomance was higher in 2017 when compared to 2018
 
 Challenges
 The Refactor did not work, I kept getting error.
+
+
 ![2017 Tickers](https://user-images.githubusercontent.com/104603037/170171479-453c1de3-acb8-46a2-bad6-a6db81a0bda7.png)
 
 
