@@ -9,11 +9,17 @@ Ticker TERP gave the lowest return in 2017 while Ticker DQ was the highest.
 Ticker TERP was very low in the two years.
 The overall Ticker DQ perfomance was higher in 2017 when compared to 2018.
 
-Challenges
-The Refactor did not work, I kept getting error.
 
 
-![2017 Tickers](https://user-images.githubusercontent.com/104603037/170171479-453c1de3-acb8-46a2-bad6-a6db81a0bda7.png)
+![2017 Analysis](https://user-images.githubusercontent.com/104603037/170842835-83be9d72-a8b5-4364-b06b-2fd80b4c3227.png)
 
 
-![2018 Tickers](https://user-images.githubusercontent.com/104603037/170171502-e7ef307f-1395-4550-a6f6-2877fd74f575.png)
+![2017 Time](https://user-images.githubusercontent.com/104603037/170842844-fe349a73-6a60-439e-b1c5-96d366e68cb5.png)
+
+
+
+![2018 Analysis](https://user-images.githubusercontent.com/104603037/170842849-116138cd-eb58-4bbb-b605-84ed39399b58.png)
+
+
+![2018 Time](https://user-images.githubusercontent.com/104603037/170842851-fcc44d43-3bde-48bd-be0b-d1794fd91602.png)
+
