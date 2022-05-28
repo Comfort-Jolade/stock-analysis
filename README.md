@@ -3,8 +3,9 @@ The pupose of this analysis to give information on different stock performance f
 
 ## Overview of the project
 This project is a review of differnt Tickers and their annual returns for different years
+Using the refactoring code improved code efficiency by reducing the time and also making the code resusable for different years.
 
-#Analysis
+## Results
 
 Ticker TERP gave the lowest returns in 2018 while the Ticker RUN gave the highest retunrs.
 Ticker TERP gave the lowest return in 2017 while Ticker DQ was the highest.
